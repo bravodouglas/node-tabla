@@ -3,6 +3,8 @@
 1. npm init : comando para crear el package.json desde cero
 2. npm init-Y : comando para crear el package.json con los valores por defectos
 
+# Contenido
+Primer programa en Node
 ````
 Options:
       --help     Show help                                             [boolean]
